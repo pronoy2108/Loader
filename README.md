@@ -1,3 +1,4 @@
+<!--Help me-->
 # Loader
 
 This project helps to manage unlimited plugins repos with one [core repo](https://github.com/UsergeTeam/Userge).
